@@ -4,7 +4,7 @@
    
     - **Ödev :** HTML Temel iskelet yapısını kullanarak ilk ödevi tamamladım.
 
-    - **Tamamlanmış Ödev :** [patika_html_odev1/index.html](https://github.com/halilenesozdemir/Patika.dev-HTML-Homeworks/tree/main/patika_html_oCancel changesdev1)
+    - **Tamamlanmış Ödev :** [patika_html_odev1/index.html](https://github.com/halilenesozdemir/Patika.dev-HTML-Homeworks/tree/main/patika_html_odev1)
 
 ---
 
