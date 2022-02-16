@@ -2,7 +2,7 @@
 
 1. **Ödev 1 :**
    
-    - **Ödev :** HTML Temel iskelet yapısını kullanarak ilk ödevi tamamladım.
+    - **Ödev :** HTML temel iskelet yapısını kullanarak ilk ödevi tamamladım.
 
     - **Tamamlanmış Ödev :** [patika_html_odev1/index.html](https://github.com/halilenesozdemir/Patika.dev-HTML-Homeworks/tree/main/patika_html_odev1)
 
